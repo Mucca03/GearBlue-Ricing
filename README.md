@@ -7,7 +7,7 @@
 
 ### 🖼️ Screenshots
 
-| Desktop | Terminal | Waybar |
+| Desktop | Terminal | Ricing |
 |----------|-----------|--------|
 | ![Desktop](./1.jpeg) | ![Terminal](./2.jpeg) | ![Waybar](./3.jpeg) |
 
