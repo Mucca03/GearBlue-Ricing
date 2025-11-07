@@ -2,8 +2,14 @@
 
 *A custom Arch Linux rice built with Hyprland, inspired by Luffy and Spiderman — a blue-themed setup focused on performance, minimalism, and aesthetics.*
 
-### screenshots
 
+---
+
+### 🖼️ Screenshots
+
+| Desktop | Terminal | Waybar |
+|----------|-----------|--------|
+| ![Desktop](./1.jpeg) | ![Terminal](./2.jpeg) | ![Waybar](./3.jpeg) |
 
 ---
 
